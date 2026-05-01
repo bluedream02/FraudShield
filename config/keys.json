@@ -1,0 +1,8 @@
+{
+  "openai_api_key": "YOUR_KEY",
+  "openai_base_url": "https://api.openai.com/v1",
+  "third_party_api_key": "YOUR_KEY",
+  "third_party_base_url": "YOUR_BASE_URL",
+  "judge_model": "gpt-4o-mini"
+}
+

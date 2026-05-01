@@ -1,0 +1,8 @@
+openai>=1.0.0
+pandas>=2.0.0
+tqdm>=4.0.0
+
+# Optional: only needed when running local open-weight models
+# transformers>=4.0.0
+# torch>=2.0.0
+
