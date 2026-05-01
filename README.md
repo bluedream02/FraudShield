@@ -1,8 +1,8 @@
 # [WWW 2026] FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks
 
-[arXiv](https://arxiv.org/abs/2601.22485)
-[Python](https://www.python.org/)
-[License: MIT](./LICENSE)
+[![WWW 2026](https://img.shields.io/badge/WWW-2026-green.svg)](https://iclr.cc/) [![arXiv](https://img.shields.io/badge/arXiv-2601.22485-b31b1b.svg)](https://arxiv.org/abs/2601.22485)
+ [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 This is the official implementation of **"FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks"** (WWW 2026).
 
